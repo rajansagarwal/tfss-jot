@@ -12,6 +12,16 @@
   align-items: center;
 }
 
+.classses {
+  min-height: 100vh;
+  padding: 2rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+}
+
 .footer {
   display: flex;
   flex: 1;
